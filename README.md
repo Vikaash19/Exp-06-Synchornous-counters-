@@ -63,8 +63,10 @@ Developed by: Vikaash K S
 RegisterNumber: 23013426
 ~~~
 ### UP COUNTER:
+![up counter code](https://github.com/Vikaash19/Exp-06-Synchornous-counters-/assets/148514589/b2d139e0-3ceb-4217-be75-748118df84ef)
 
 ### DOWN COUNTER:
+![down counter code](https://github.com/Vikaash19/Exp-06-Synchornous-counters-/assets/148514589/ec61964d-59ae-4d52-ab0b-c13cc5abd9ec)
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 ### UP COUNTER:
@@ -89,4 +91,4 @@ RegisterNumber: 23013426
 
 ### RESULT:
 Thus Synchornous counters up counter and down counter circuit are studied and the truth table for
-different logic gates are verified>
+different logic gates are verified.
