@@ -88,3 +88,5 @@ RegisterNumber: 23013426
 ![DOWN TT](https://github.com/Vikaash19/Exp-06-Synchornous-counters-/assets/148514589/b4e5bfff-6526-4021-bf8b-46e11e500f04)
 
 ### RESULT:
+Thus Synchornous counters up counter and down counter circuit are studied and the truth table for
+different logic gates are verified.
